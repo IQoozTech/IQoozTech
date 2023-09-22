@@ -1,3 +1,4 @@
+![logo](https://github.com/IQoozTech/icon/blob/ea137b0b233d0fe18887beabe9c97ab9c487d6f2/banner.png)
 <h1 align="center">Hi 👋, I'm IQooz Tech</h1>
 <h3 align="center">Welcome Boyzz</h3>
 
